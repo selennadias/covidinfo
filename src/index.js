@@ -9,7 +9,7 @@ const rootElement = document.getElementById("root");
 ReactDOM.render(
   <React.StrictMode>
     <Header />
-    <Footer texto="Todos os direitos reservados" />
+    <Footer texto="Todos os direitos reservados IFSULDEMINAS 2020" />
   </React.StrictMode>,
   rootElement
 );
